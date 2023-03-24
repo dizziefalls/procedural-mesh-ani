@@ -1,0 +1,16 @@
+html,
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.app {
+  position: relative;
+  .anim {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    z-index: -1;
+  }
+}

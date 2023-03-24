@@ -1,0 +1,1 @@
+Attempt at producing a procedural mesh using three.js and react-three-fiber. Can't seem to get it to display yet though. Follows [this video](https://www.youtube.com/watch?v=2kTQZVzkXgI)
