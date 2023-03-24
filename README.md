@@ -1,1 +1,3 @@
 Attempt at producing a procedural mesh using three.js and react-three-fiber. Can't seem to get it to display yet though. Follows [this video](https://www.youtube.com/watch?v=2kTQZVzkXgI)
+
+The impetus is finding a good method to generate a mesh for my personal site. Not quite what I'm looking for yet. I'm going to create a base mesh in blender, and then I want to extend that into a chainmail pattern. It's looking like I'll need to just design it by hand and use something like [threejs-path-flow](https://github.com/zz85/threejs-path-flow) to produce a fluid like effect around the mesh that is interactive.
